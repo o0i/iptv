@@ -27,7 +27,7 @@ CCTV-17农业FHD,https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
 北京卫视FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 安徽卫视FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
 天津卫视FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-辽宁卫视FHD,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
+辽宁卫视FHD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
 深圳卫视FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 东南卫视FHD,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 湖北卫视FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
