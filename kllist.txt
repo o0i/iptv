@@ -1,3 +1,5 @@
+#2020-04-12 有新源再更吧#
+
 央视频道,#genre#
 
 CCTV-1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
@@ -18,6 +20,7 @@ CCTV-14,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV-15,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 CCTV-4k,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+
 
 卫视频道,#genre#
 
@@ -55,6 +58,7 @@ CCTV-4k,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 凤凰资讯HD,http://qlive.fengshows.cn/live720p/PIN.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文HD,http://qlive.fengshows.cn/live720p/PCC.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰香港台HD,http://qlive.fengshows.cn/live720p/PHK.flv
+有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 NHK华语世界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -62,21 +66,6 @@ NHK华语世界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 澳门澳视葡文台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门澳视卫视台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 RHK-31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-寰宇新闻1,p2p://fccsovh.pvbox.live:18912/5b1408f30005adecf30d9563955b54ce.ts
-无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts#p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-中天新聞,mitv://198.255.74.57:12496/5e84bba100061c880ab0f514fbd68153
-TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
-东森新闻,mitv://198.255.74.57:12496/5e84bb9a00090f370ab0da7e37b8b3d6
-年代新聞,mitv://198.255.74.57:12496/5e84bb9b0000d5160ab0dc4bd800afae
-非凡新聞,mitv://198.255.74.57:12496/5e84bb9a000f35d50ab0dc1154852429
-三立新聞,mitv://198.255.74.57:12496/5e84bb9d0009eac90ab0e66e74ca3664
-壹新闻,mitv://198.255.74.57:12496/5e84bb9e0000bedb0ab0e7fdcb3fcf70
-寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
-民視新闻,mitv://198.255.74.57:12496/5e84bb9700030acc0ab0cd3bfefc68b2
-台視新闻,mitv://198.255.74.57:12496/5e84bb97000063790ab0cc8d74039f8e
-中視新闻,mitv://198.255.74.57:12496/5e84bb970005b7480ab0cdeb2166386b
-新加坡8频道HD,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
 电影频道,#genre#
 
@@ -113,9 +102,14 @@ TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
 战旗轮播-35,http://dlhdl-cdn.zhanqi.tv/zqlive/294796_FJl0O.flv
 战旗轮播-36,http://dlhdl-cdn.zhanqi.tv/zqlive/294032_1jcBK.flv
 
-音乐台频道,#genre#
+音乐频道,#genre#
 m2o音乐,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
+其他格式,#genre#
+
+p8p青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+p9p十五本道,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link
+mitv壹新闻,mitv://198.255.74.57:12496/5e84bb9e0000bedb0ab0e7fdcb3fcf70
 其他卫视_96,#genre#
 
 HAPPY,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts
@@ -130,21 +124,9 @@ HAPPY,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts
 HOT星颖,p2p://fccsovh.pvbox.live:18912/5c18f8e80001d046c073d07f7ee742c9.ts#p2p://190.2.146.92:18912/5c18f8e80001d046c073d07f7ee742c9.ts#p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts
 潘多拉粉紅,p2p://fccsovh.pvbox.live:18912/5c18f90c000e8229c074606a15084f35.ts#p2p://190.2.146.92:18912/5c18f90c000e8229c074606a15084f35.ts#p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts
 潘多拉完美,p2p://fccsovh.pvbox.live:18912/5c18f905000c08fbc07444661e2e685e.ts#p2p://190.2.146.92:18912/5c18f905000c08fbc07444661e2e685e.ts#p2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts
-红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
-拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
-潘多拉台(高清),p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
-K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
-青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
-彩虹台(高清),p8p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
-樱花台(高清),p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
-乐活台(高清),p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
-舒活台(高清),p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
-十五本道,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link
 奧視成人1台,http://204.45.185.166:25678/i/ghjnvq5o/tj5knp44/index.m3u8
 奧視成人2台,http://204.45.185.166:25678/i/ghjnvq5o/t00c98rg/index.m3u8
 成人動畫台,http://204.45.185.166:25678/i/ghjnvq5o/9l5py3k2/index.m3u8
-超高清 4K,http://140.249.30.171/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 
 直播频道_96,#genre#
 
