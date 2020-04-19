@@ -35,33 +35,28 @@ BasTV 5,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/23
 卫视频道,#genre#
 
 湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8#http://cbnlive.cbchot.com/live/hnws_1_1.m3u8?123
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8#http://cbnlive.cbchot.com/live/yt_dongfangweishi_h_1.m3u8?123
 浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8#http://cbnlive.cbchot.com/live/yt_zhejiangweishi_h_1.m3u8?123
-广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-辽宁卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281301.m3u8
-浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295501.m3u8
+广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8#http://cbnlive.cbchot.com/live/yt_guangdongweishi_h_1.m3u8?123
+江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8#http://cbnlive.cbchot.com/live/yt_jiangsuweishi_h_1.m3u8?123
+深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8#http://cbnlive.cbchot.com/live/yt_shenzhenweishi_h_1.m3u8?123
+浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295501.m3u8#http://cbnlive.cbchot.com/live/yt_zhejiangweishi_h_1.m3u8?123
 广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292701.m3u8#http://cbnlive.cbchot.com/live/yt_guangdongweishi_h_1.m3u8?123
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295601.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292201.m3u8
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292401.m3u8
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293901.m3u8
+江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295601.m3u8#http://cbnlive.cbchot.com/live/yt_jiangsuweishi_h_1.m3u8?123
 安微卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000298001.m3u8#http://cbnlive.cbchot.com/live/yt_anhui_h_1.m3u8?123
 重庆卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000297801.m3u8#http://cbnlive.cbchot.com/live/ty_chongqingweishi_h_1.m3u8?123
-东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292501.m3u8#http://cbnlive.cbchot.com/live/yt_dongnan_h_1.m3u8?123
+东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292501.m3u8#http://cbnlive.cbchot.com/live/yt_dongnan_h_1.m3u8?12
+河北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293401.m3u8#http://cbnlive.cbchot.com/live/yt_henanweishi_h_1.m3u8?123
+湖北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294501.m3u8#http://cbnlive.cbchot.com/live/yt_hubei_h_1.m3u8?123
+江西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294101.m3u8#http://cbnlive.cbchot.com/live/ty_jiangxiweishi_h_1.m3u8?123
+山东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294801.m3u8#http://cbnlive.cbchot.com/live/yt_shandongweishi_h_1.m3u8?123
+四川卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295001.m3u8#http://cbnlive.cbchot.com/live/yt_sichuan_h_1.m3u8?123
+天津卫视,http://cbnlive.cbchot.com/live/yt_tianjinweishi_h_1.m3u8?123#http://cbnlive.cbchot.com/live/yt_tianjinweishi_h_1.m3u8?123
+河南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296101.m3u8#http://cbnlive.cbchot.com/live/yt_henanweishi_h_1.m3u8?123
 广西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294201.m3u8
 贵州卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293301.m3u8
-河北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293401.m3u8#http://cbnlive.cbchot.com/live/yt_henanweishi_h_1.m3u8?123
-河南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296101.m3u8
-湖北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294501.m3u8
-江西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294101.m3u8#http://cbnlive.cbchot.com/live/ty_jiangxiweishi_h_1.m3u8?123
-山东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294801.m3u8
-四川卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295001.m3u8#http://cbnlive.cbchot.com/live/yt_sichuan_h_1.m3u8?123
-湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296201.m3u8
-天津卫视,http://cbnlive.cbchot.com/live/yt_tianjinweishi_h_1.m3u8?123
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8#http://cbnlive.cbchot.com/live/yt_heilongjiangweishi_h_1.m3u8?123
-
+辽宁卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281301.m3u8#http://cbnlive.cbchot.com/live/ty_liaoningweishi_h_1.m3u8?123
+龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8#http://cbnlive.cbchot.com/live/yt_heilongjiangweishi_h_1.m3u8?123
 
 港台新闻,#genre#
 
@@ -117,32 +112,41 @@ HKC电影,http://hk.tv0668.com/dl/hk520.php?id=30
 陈翔六点半,http://aldirect.rtmp.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
 东森洋片HD,http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 黑莓电影,http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+华数FHD-02,http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
+华数FHD-03,http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
+华数FHD-06,http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
+华数FHD-07,http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
+华数FHD-08,http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
+华数FHD-10,http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
+华数FHD-11,http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
+华数FHD-12,http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
+华数FHD-13,http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
+华数FHD-15,http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
+华数HD-03,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+华数HD-04,http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
+华数HD-05,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
+华数HD-07,http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
+华数HD-12,http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
+华数HD-13,http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
+华数HD-14,http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
+华数HD-15,http://hls-ott-zhibo.wasu.tv/live/422/index.m3u8
+华数HD-16,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+华数HD-17,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 战旗轮播-01,http://dlhdl-cdn.zhanqi.tv/zqlive/275052_NGqzG.flv
-战旗轮播-02,http://dlhdl-cdn.zhanqi.tv/zqlive/7032_0s2qn.flv
 战旗轮播-03,http://dlhdl-cdn.zhanqi.tv/zqlive/197952_NHycj.flv
-战旗轮播-04,http://dlhdl-cdn.zhanqi.tv/zqlive/264417_dPUXM.flv
 战旗轮播-05,http://dlhdl-cdn.zhanqi.tv/zqlive/219628_O3y9l.flv
 战旗轮播-07,http://dlhdl-cdn.zhanqi.tv/zqlive/53346_ESoth.flv
-战旗轮播-08,http://dlhdl-cdn.zhanqi.tv/zqlive/286258_U4i9o.flv
 战旗轮播-10,http://dlhdl-cdn.zhanqi.tv/zqlive/286120_2SFM6.flv
-战旗轮播-12,http://dlhdl-cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
 战旗轮播-15,http://dlhdl-cdn.zhanqi.tv/zqlive/34338_PVMT5.flv
 战旗轮播-16,http://dlhdl-cdn.zhanqi.tv/zqlive/118948_F0Rim.flv
-战旗轮播-17,http://dlhdl-cdn.zhanqi.tv/zqlive/182988_cn66n.flv
 战旗轮播-20,http://dlhdl-cdn.zhanqi.tv/zqlive/199301_y2bWG.flv
-战旗轮播-21,http://dlhdl-cdn.zhanqi.tv/zqlive/264395_mnbIi.flv
-战旗轮播-23,http://dlhdl-cdn.zhanqi.tv/zqlive/264147_VU1iK.flv
-战旗轮播-25,http://dlhdl-cdn.zhanqi.tv/zqlive/264421_0rVE9.flv
 战旗轮播-26,http://dlhdl-cdn.zhanqi.tv/zqlive/246527_Mhbol.flv
 战旗轮播-27,http://dlhdl-cdn.zhanqi.tv/zqlive/93774_g0UdM.flv
 战旗轮播-29,http://dlhdl-cdn.zhanqi.tv/zqlive/291236_97IGR.flv
 战旗轮播-30,http://dlhdl-cdn.zhanqi.tv/zqlive/288547_qSJ5f.flv
-战旗轮播-31,http://dlhdl-cdn.zhanqi.tv/zqlive/210915_Mg4QM.flv
 战旗轮播-32,http://dlhdl-cdn.zhanqi.tv/zqlive/275792_qIz6B.flv
 战旗轮播-33,http://dlhdl-cdn.zhanqi.tv/zqlive/93626_h1w6h.flv
-战旗轮播-34,http://dlhdl-cdn.zhanqi.tv/zqlive/289178_v9Awm.flv
-战旗轮播-35,http://dlhdl-cdn.zhanqi.tv/zqlive/294796_FJl0O.flv
-战旗轮播-36,http://dlhdl-cdn.zhanqi.tv/zqlive/294032_1jcBK.flv
+
 
 MTV频道,#genre#
 m2o音乐,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
@@ -268,59 +272,53 @@ adult-live-37,P2p://fccseuro.pvbox.live:18912/5d6a080400099377f223b332034756e1.t
 adult-live-38,P2p://fccseuro.pvbox.live:18912/5d6a0806000d63cef223bbfc37f92b76.ts
 adult-live-39,P2p://fccseuro.pvbox.live:18912/5d6a080800063cbcf223c1f733e11ddf.ts
 adult-live-40,P2p://fccvod2.pvbox.live:8923/5daeead2000b1426ff39c54d62666edf.ts
+直播,https://rlc.live/hola/static/resources/03_1/1542877056/playlist.m3u8
+3,https://lajiao-bo.com/20190501/X0DRzA0O/index.m3u8
+4,https://d2z7fs09eza0nu.cloudfront.net/81820190301/818201903010529/index.m3u8
+5,https://135zyv6.xw0371.com/2019/02/27/TtzrZc0rcAb4Mr8D/playlist.m3u8
+6,https://135zyv6.xw0371.com/2019/02/23/1g4zfSMGSLYLCGl0/playlist.m3u8
+A3BIKINI TV,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+AST TV 1,http://www.ast.tv/stream/1/master.m3u8#https://www.ast.tv/stream/1/high.m3u8#https://www.ast.tv/stream/1/ultra.m3u8
+AST TV 2,http://www.ast.tv/stream/2/master.m3u8#https://www.ast.tv/stream/2/high.m3u8#https://www.ast.tv/stream/2/normal.m3u8#https://www.ast.tv/stream/2/ultra.m3u8
+Babestation24,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+Jasmin TV,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+Private TV HD,http://188.35.9.5:10005/stolen/153a/imposter.rar
+RedTraffic Big Ass,http://live.redtraffic.xyz/bigass.m3u8
+RedTraffic Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+RedTraffic Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
+RedTraffic Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
+RedTraffic Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+RedTraffic Fetish,http://live.redtraffic.xyz/fetish.m3u8
+RedTraffic Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+RedTraffic Interracial,http://live.redtraffic.xyz/interracial.m3u8
+RedTraffic Latina,http://live.redtraffic.xyz/latina.m3u8
+RedTraffic Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+RedTraffic MILF,http://live.redtraffic.xyz/milf.m3u8
+RedTraffic Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+RedTraffic POV,http://live.redtraffic.xyz/pov.m3u8
+RedTraffic Russian,http://live.redtraffic.xyz/russian.m3u8
+RedTraffic Teen,http://live.redtraffic.xyz/teen.m3u8
+RedTraffic Threesome,http://live.redtraffic.xyz/threesome.m3u8
+Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
+Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+Vivid TV Europe,http://188.35.9.26:2031/udp/031a
 
 其他频道1_96,#genre#
 
-日韩高清1,https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
-日韩高清2,https://www.800-cdn.com/20191104/BmPJsJib/index.m3u8
-日韩高清3,https://www.800-cdn.com/20191104/FOYD2Arr/index.m3u8
-日韩高清4,https://www.800-cdn.com/20191104/xWsSpVkx/index.m3u8
-日韩高清5,https://www.800-cdn.com/20191104/QLNa0Ar4/index.m3u8
-日韩高清6,https://www.800-cdn.com/20191104/1NVic5n6/index.m3u8
-日韩高清7,https://www.800-cdn.com/20191104/mxUrCin3/index.m3u8
-日韩高清8,https://www.800-cdn.com/20191104/gfXL8zE8/index.m3u8
-日韩高清9,https://www.800-cdn.com/20191104/PSnzMnZd/index.m3u8
-日韩高清10,https://www.800-cdn.com/20191104/lL8NPXx2/index.m3u8
-日韩高清11,https://www.800-cdn.com/20191104/y0KFfsPy/index.m3u8
-日韩高清12,https://www.800-cdn.com/20191104/WbOhWHnk/index.m3u8
-日韩高清13,https://www.800-cdn.com/20191027/R87kAR0L/index.m3u8
-日韩高清14,https://www.800-cdn.com/20191027/RBJZ7rSf/index.m3u8
-日韩高清15,https://www.800-cdn.com/20191027/4sGRBas8/index.m3u8
-日韩高清16,https://www.800-cdn.com/20191027/f6eNa800/index.m3u8
-日韩高清17,https://www.800-cdn.com/20191027/uAH7rRu4/index.m3u8
-日韩高清18,https://www.800-cdn.com/20191027/QAIdDBmi/index.m3u8
-日韩高清19,https://www.800-cdn.com/20191027/5X3C0amn/index.m3u8
-日韩高清20,https://www.800-cdn.com/20191027/ZKXHEQyF/index.m3u8
-日韩高清21,https://www.800-cdn.com/20191027/hqEHcPYy/index.m3u8
-日韩高清22,https://www.800-cdn.com/20191027/9NOUhwRt/index.m3u8
-日韩高清23,https://www.800-cdn.com/20191027/bYH5tZAI/index.m3u8
-日韩高清24,https://www.800-cdn.com/20191027/2nvgyYWH/index.m3u8
-日韩高清25,https://www.800-cdn.com/20191027/bySOhvPZ/index.m3u8
-日韩高清26,https://www.800-cdn.com/20191027/xqHCnmsK/index.m3u8
-日韩高清27,https://www.800-cdn.com/20191024/ArdisIvp/index.m3u8
-日韩高清28,https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
-日韩高清29,https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
-日韩高清30,https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
-日韩高清31,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-日韩高清32,http://video.jiagew762.com:8091/20180616/wmxnujCZ/index.m3u8
-日韩高清33,http://video.jiagew762.com:8091/20180614/NDShlY4s/index.m3u8
-日韩高清34,http://video.jiagew762.com:8091/20180614/NDShlY4s/index.m3u8
-日韩高清35,http://video.jiagew762.com:8091/20180614/rBl1szfa/index.m3u8
-日韩高清36,http://video.jiagew762.com:8091/20180615/kQOBxis1/index.m3u8
-日韩高清37,http://video.jiagew762.com:8091/20180614/1ltODGjX/index.m3u8
-日韩高清38,http://video.jiagew762.com:8091/20180615/U9uFMZw1/index.m3u8
-日韩高清39,http://video.jiagew762.com:8091/20180614/BUlr34Q7/index.m3u8
-日韩高清40,http://video.jiagew762.com:8091/20180615/YsDPfuX5/index.m3u8
-日韩高清41,http://video.jiagew762.com:8091/20180615/eQN4S0ro/index.m3u8
-日韩高清42,http://video.jiagew762.com:8091/20180616/tsrocUhb/index.m3u8
-日韩高清43,http://video.jiagew762.com:8091/20180615/hb6aWRVY/index.m3u8
-日韩高清44,http://video.jiagew762.com:8091/20180615/Hy0GyDqw/index.m3u8
-日韩高清45,http://video.jiagew762.com:8091/20180615/VNb8JbbL/index.m3u8
-日韩高清46,http://video.jiagew762.com:8091/20180616/UnA748MV/index.m3u8
-日韩高清47,http://video.jiagew762.com:8091/20180616/wmxnujCZ/index.m3u8
-日韩高清48,http://video.jiagew762.com:8091/20180616/BpzeWWhs/index.m3u8
-日韩高清49,http://video.jiagew762.com:8091/20180616/4QUnWwoD/index.m3u8
-日韩高清50,http://video.jiagew762.com:8091/20180616/Ddwhp9yH/index.m3u8
+
 高清无码1,https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
 高清无码2,https://www.800-cdn.com/20191104/BmPJsJib/index.m3u8
 高清无码3,https://www.800-cdn.com/20191104/FOYD2Arr/index.m3u8
@@ -351,6 +349,26 @@ adult-live-40,P2p://fccvod2.pvbox.live:8923/5daeead2000b1426ff39c54d62666edf.ts
 高清无码28,https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
 高清无码29,https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
 高清无码30,https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
+日韩高清31,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+日韩高清32,http://video.jiagew762.com:8091/20180616/wmxnujCZ/index.m3u8
+日韩高清33,http://video.jiagew762.com:8091/20180614/NDShlY4s/index.m3u8
+日韩高清34,http://video.jiagew762.com:8091/20180614/NDShlY4s/index.m3u8
+日韩高清35,http://video.jiagew762.com:8091/20180614/rBl1szfa/index.m3u8
+日韩高清36,http://video.jiagew762.com:8091/20180615/kQOBxis1/index.m3u8
+日韩高清37,http://video.jiagew762.com:8091/20180614/1ltODGjX/index.m3u8
+日韩高清38,http://video.jiagew762.com:8091/20180615/U9uFMZw1/index.m3u8
+日韩高清39,http://video.jiagew762.com:8091/20180614/BUlr34Q7/index.m3u8
+日韩高清40,http://video.jiagew762.com:8091/20180615/YsDPfuX5/index.m3u8
+日韩高清41,http://video.jiagew762.com:8091/20180615/eQN4S0ro/index.m3u8
+日韩高清42,http://video.jiagew762.com:8091/20180616/tsrocUhb/index.m3u8
+日韩高清43,http://video.jiagew762.com:8091/20180615/hb6aWRVY/index.m3u8
+日韩高清44,http://video.jiagew762.com:8091/20180615/Hy0GyDqw/index.m3u8
+日韩高清45,http://video.jiagew762.com:8091/20180615/VNb8JbbL/index.m3u8
+日韩高清46,http://video.jiagew762.com:8091/20180616/UnA748MV/index.m3u8
+日韩高清47,http://video.jiagew762.com:8091/20180616/wmxnujCZ/index.m3u8
+日韩高清48,http://video.jiagew762.com:8091/20180616/BpzeWWhs/index.m3u8
+日韩高清49,http://video.jiagew762.com:8091/20180616/4QUnWwoD/index.m3u8
+日韩高清50,http://video.jiagew762.com:8091/20180616/Ddwhp9yH/index.m3u8
 我爱吃泡面,https://135zyv6.xw0371.com/2018/11/07/sh6h911E9TsSijCN/playlist.m3u8
 我有时候也想成为A片主人公,https://135zyv6.xw0371.com/2018/11/05/fpNsQRpDmFFIx5Q9/playlist.m3u8
 妻子的情人2,https://135zyv6.xw0371.com/2018/11/07/zKWpHGbfJZpHUfZC/playlist.m3u8
@@ -840,22 +858,6 @@ Donarino syuhu,https://135zyv6.xw0371.com/2019/03/13/qsT91dPS3rR74Qqr/playlist.m
 三餐成人模仿1集,https://135zyv6.xw0371.com/2019/02/03/IdpOJCvWpmWMIMcS/playlist.m3u8
 三餐成人模仿2集,https://135zyv6.xw0371.com/2019/02/03/gc7gmOudegR6RfE2/playlist.m3u8
 三餐成人模仿3集,https://135zyv6.xw0371.com/2019/02/03/d90YdkVdkFRYobks/playlist.m3u8
-非常有趣的秀-大叔秀第2 05集,https://135zyv6.xw0371.com/2019/01/11/sjeLjZDXnytY0cd9/playlist.m3u8
-非常有趣的秀-大叔秀第2 06集,https://135zyv6.xw0371.com/2019/01/11/BH8AMYwFeplTQPA7/playlist.m3u8
-非常有趣的秀-大叔秀第2 07集,https://135zyv6.xw0371.com/2019/01/14/4qNtoTq9ThqyjBsa/playlist.m3u8
-非常有趣的秀-大叔秀第2 08集,https://135zyv6.xw0371.com/2019/01/14/IH2WgnYexzAI4VQr/playlist.m3u8
-非常有趣的秀-大叔秀第2 09集,https://135zyv6.xw0371.com/2019/01/12/awj98a2Ub99NO8o8/playlist.m3u8
-非常有趣的秀-大叔秀第2 10集,https://135zyv6.xw0371.com/2019/01/12/G4fozCnijiLEeAFd/playlist.m3u8
-非常有趣的秀-大叔秀第2 13集,https://135zyv6.xw0371.com/2019/01/16/vt0fcZPWC4MWTDgc/playlist.m3u8
-非常有趣的秀-大叔秀第2 14集,https://135zyv6.xw0371.com/2019/01/16/LrnXQ7ojKL2FO2iD/playlist.m3u8
-非常有趣的秀-大叔秀第2 15集,https://135zyv6.xw0371.com/2019/01/11/fUcUXQvKVRYkhpu5/playlist.m3u8
-非常有趣的秀-大叔秀第2 16集,https://135zyv6.xw0371.com/2019/01/11/iIOHiVgKkDoY60IF/playlist.m3u8
-非常有趣的秀-大叔秀第2 18集,https://135zyv6.xw0371.com/2019/01/09/XwjCDQzPjFAbwkJz/playlist.m3u8
-非常有趣的秀-大叔秀第2 20集,https://135zyv6.xw0371.com/2019/01/10/l5pblusbIwbTN7Eh/playlist.m3u8
-非常有趣的秀-大叔秀第2 21集,https://135zyv6.xw0371.com/2019/01/10/nXft8LkWA5pQHI0G/playlist.m3u8
-非常有趣的秀-大叔秀第2 22集,https://135zyv6.xw0371.com/2019/01/07/imvOF56JAUwDD2FC/playlist.m3u8
-非常有趣的秀-大叔秀第2 23集,https://135zyv6.xw0371.com/2019/01/07/3gZloa6WvXwFKhKJ/playlist.m3u8
-非常有趣的秀-大叔秀第2 24集,https://135zyv6.xw0371.com/2019/01/07/bmudud6FMI7k4Baz/playlist.m3u8
 无尽的解放性丑闻第1集 - 艰难的办公室大师恶魔,https://135zyv6.xw0371.com/2018/12/23/YRTftLmABwKPb3v0/playlist.m3u8
 无尽的排放性丑闻第2集 - 有抱负的模特性训练,https://135zyv6.xw0371.com/2018/12/21/xbDnSM62wfuUGtpi/playlist.m3u8
 无限释放性丑闻第3集,https://135zyv6.xw0371.com/2018/12/23/eOwoj0zIQq6ZEB6b/playlist.m3u8
@@ -875,4 +877,20 @@ Donarino syuhu,https://135zyv6.xw0371.com/2019/03/13/qsT91dPS3rR74Qqr/playlist.m
 魔女和恋爱第2集,https://135zyv6.xw0371.com/2019/01/01/WWigXT7D2zCZFfjl/playlist.m3u8
 魔女和恋爱第4集,https://135zyv6.xw0371.com/2019/01/01/uiL8W95OtboEkZyb/playlist.m3u8
 魔女和恋爱第5集,https://135zyv6.xw0371.com/2019/01/02/vuJnoCasqQmmQEGw/playlist.m3u8
+非常有趣的秀-大叔秀第2 05集,https://135zyv6.xw0371.com/2019/01/11/sjeLjZDXnytY0cd9/playlist.m3u8
+非常有趣的秀-大叔秀第2 06集,https://135zyv6.xw0371.com/2019/01/11/BH8AMYwFeplTQPA7/playlist.m3u8
+非常有趣的秀-大叔秀第2 07集,https://135zyv6.xw0371.com/2019/01/14/4qNtoTq9ThqyjBsa/playlist.m3u8
+非常有趣的秀-大叔秀第2 08集,https://135zyv6.xw0371.com/2019/01/14/IH2WgnYexzAI4VQr/playlist.m3u8
+非常有趣的秀-大叔秀第2 09集,https://135zyv6.xw0371.com/2019/01/12/awj98a2Ub99NO8o8/playlist.m3u8
+非常有趣的秀-大叔秀第2 10集,https://135zyv6.xw0371.com/2019/01/12/G4fozCnijiLEeAFd/playlist.m3u8
+非常有趣的秀-大叔秀第2 13集,https://135zyv6.xw0371.com/2019/01/16/vt0fcZPWC4MWTDgc/playlist.m3u8
+非常有趣的秀-大叔秀第2 14集,https://135zyv6.xw0371.com/2019/01/16/LrnXQ7ojKL2FO2iD/playlist.m3u8
+非常有趣的秀-大叔秀第2 15集,https://135zyv6.xw0371.com/2019/01/11/fUcUXQvKVRYkhpu5/playlist.m3u8
+非常有趣的秀-大叔秀第2 16集,https://135zyv6.xw0371.com/2019/01/11/iIOHiVgKkDoY60IF/playlist.m3u8
+非常有趣的秀-大叔秀第2 18集,https://135zyv6.xw0371.com/2019/01/09/XwjCDQzPjFAbwkJz/playlist.m3u8
+非常有趣的秀-大叔秀第2 20集,https://135zyv6.xw0371.com/2019/01/10/l5pblusbIwbTN7Eh/playlist.m3u8
+非常有趣的秀-大叔秀第2 21集,https://135zyv6.xw0371.com/2019/01/10/nXft8LkWA5pQHI0G/playlist.m3u8
+非常有趣的秀-大叔秀第2 22集,https://135zyv6.xw0371.com/2019/01/07/imvOF56JAUwDD2FC/playlist.m3u8
+非常有趣的秀-大叔秀第2 23集,https://135zyv6.xw0371.com/2019/01/07/3gZloa6WvXwFKhKJ/playlist.m3u8
+非常有趣的秀-大叔秀第2 24集,https://135zyv6.xw0371.com/2019/01/07/bmudud6FMI7k4Baz/playlist.m3u8
 
