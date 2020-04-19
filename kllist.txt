@@ -2,23 +2,25 @@
 
 央视频道,#genre#
 
-CCTV-1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8#http://cbnlive.cbchot.com/live/yt_cctv1_h_1.m3u8?123
-CCTV-2,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8#http://cbnlive.cbchot.com/live/yt_cctv2_h_1.m3u8?123
-CCTV-3,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8#http://cbnlive.cbchot.com/live/yt_cctv3_h_1.m3u8?123
-CCTV-4,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8http://cbnlive.cbchot.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?123
-CCTV-5,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8#http://cbnlive.cbchot.com/live/yt_cctv5_h_1.m3u8?123
-CCTV-5+,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8#http://cbnlive.cbchot.com/live/yt_cctv5+_h_1.m3u8?123
-CCTV-6,http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
-CCTV-7,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000510003.m3u8#http://cbnlive.cbchot.com/live/yt_cctv7_h_1.m3u8?123
-CCTV-8,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8#http://cbnlive.cbchot.com/live/yt_cctv8_h_1.m3u8?123
-CCTV-9,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8#http://cbnlive.cbchot.com/live/yt_cctv9_h_1.m3u8?123
-CCTV-10,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#http://cbnlive.cbchot.com/live/yt_cctv10_h_1.m3u8?123
-CCTV-11,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8#http://cbnlive.cbchot.com/live/yt_cctv11_h_1.m3u8?123
-CCTV-12,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8#http://cbnlive.cbchot.com/live/yt_cctv12_h_1.m3u8?123
-CCTV-13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://cbnlive.cbchot.com/live/yt_cctv13_h_1.m3u8?123
-CCTV-14,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8#http://cbnlive.cbchot.com/live/yt_cctv14_h_1.m3u8?123
-CCTV-15,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8#http://cbnlive.cbchot.com/live/yt_cctv15_h_1.m3u8?123
-CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8#http://cbnlive.cbchot.com/live/yt_cctv17_h_1.m3u8?123
+CCTV-1,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8#http://cbnlive.cbchot.com/live/yt_cctv1_h_1.m3u8?123
+CCTV-2,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv2_h_1.m3u8?123
+CCTV-3,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8#http://cbnlive.cbchot.com/live/yt_cctv3_h_1.m3u8?123
+CCTV-4,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?123
+CCTV-5,http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv5_h_1.m3u8?123
+CCTV-5+,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8#http://cbnlive.cbchot.com/live/yt_cctv5+_h_1.m3u8?123
+CCTV-6,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8#http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
+CCTV-7,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv7_h_1.m3u8?123
+CCTV-8,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8#http://cbnlive.cbchot.com/live/yt_cctv8_h_1.m3u8?123
+CCTV-9,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv9_h_1.m3u8?123
+CCTV-10,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv10_h_1.m3u8?123
+CCTV-11,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv11_h_1.m3u8?123
+CCTV-12,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv12_h_1.m3u8?123
+CCTV-13,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=023&Provider_id=&Pcontent_id=index.m3u8#http://cbnlive.cbchot.com/live/yt_cctv13_h_1.m3u8?123
+CCTV-14,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv14_h_1.m3u8?123
+CCTV-15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv15_h_1.m3u8?123
+CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://cbnlive.cbchot.com/live/yt_cctv17_h_1.m3u8?123
+CCTV体育赛事,http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8#http://121.31.30.91:8081/ysten-business/live/hdcctv05plus/1.m3u8
+CCTV央视台球,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch15090915512437000823.rsc/89020_Uni.sdp
 
 4K超清,#genre#
 
@@ -272,6 +274,14 @@ adult-live-37,P2p://fccseuro.pvbox.live:18912/5d6a080400099377f223b332034756e1.t
 adult-live-38,P2p://fccseuro.pvbox.live:18912/5d6a0806000d63cef223bbfc37f92b76.ts
 adult-live-39,P2p://fccseuro.pvbox.live:18912/5d6a080800063cbcf223c1f733e11ddf.ts
 adult-live-40,P2p://fccvod2.pvbox.live:8923/5daeead2000b1426ff39c54d62666edf.ts
+男同,https://www.ast.tv/stream/1/cellular.m3u8
+男同,http://www.ast.tv/stream/1/master.m3u8
+男同,https://www.ast.tv/stream/1/high.m3u8
+男同,https://www.ast.tv/stream/1/ultra.m3u8
+男同,https://www.ast.tv/stream/2/high.m3u8
+男同,https://www.ast.tv/stream/2/normal.m3u8
+男同,https://www.ast.tv/stream/2/ultra.m3u8
+男同,http://www.ast.tv/stream/2/master.m3u8
 直播,https://rlc.live/hola/static/resources/03_1/1542877056/playlist.m3u8
 3,https://lajiao-bo.com/20190501/X0DRzA0O/index.m3u8
 4,https://d2z7fs09eza0nu.cloudfront.net/81820190301/818201903010529/index.m3u8
