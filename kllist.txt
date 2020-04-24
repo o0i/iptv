@@ -26,6 +26,8 @@ CCTV央视台球,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch1509
 
 CCTV4K超清,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+CCTV-4K高码[3840*2160],http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+纯享4K频道[3840*2160],http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 广电4K,http://cbnlive.cbchot.com/live/4klocal_1.m3u8?123
 爱上4K超清,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 金鹰纪实,http://cbnlive.cbchot.com/live/yt_jinying_h_1.m3u8?123
