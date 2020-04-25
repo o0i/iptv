@@ -3,7 +3,9 @@
 
 惊天营救,https://douban.donghongzuida.com/20200424/966_ea00e20d/index.m3u8
 惊天营救1,https://hls.aoxtv.com/v3.szjal.cn/20200425/ep7xXV23/index.m3u
-CCTV-1蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+半路枪手,https://xigua-cdn.haima-zuida.com/20200302/3988_d0a5e9fc/index.m3u8
+腰间持枪,http://cn7.18787000118.com/hls/20200303/5974454e05ee928c3063f24728ae095f/index.m3u8
+CTV-1蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-1蓝光[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-2蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV-2蓝光[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
