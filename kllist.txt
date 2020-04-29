@@ -1,4 +1,4 @@
-#2020-04-27 有新源再更吧#
+#2020-04-29 有新源再更吧#
 央视频道,#genre#
 惊天营救,https://douban.donghongzuida.com/20200424/966_ea00e20d/index.m3u8
 惊天营救1,https://hls.aoxtv.com/v3.szjal.cn/20200425/ep7xXV23/index.m3u
@@ -50,19 +50,6 @@ CCTV-15[1920*1080],http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDom
 CCTV-17[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV体育赛事[1280*720],http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 CCTV体育赛事[1280*720],http://121.31.30.91:8081/ysten-business/live/hdcctv05plus/1.m3u8
-4K超清,#genre#
-纯享4K[3840*2160],http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-纯享4K频道[3840*2160][3840*2160],http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-广电4K[3840*2160],http://cbnlive.cbchot.com/live/4klocal_1.m3u8?123
-金鹰纪实[1920*1080],http://cbnlive.cbchot.com/live/yt_jinying_h_1.m3u8?123
-全纪实[1280*720],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/2300000/mnf.m3u8
-全纪实[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-全纪实[1920*1080],http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000119
-纪实频道[1280*720],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jspdhd/2300000/mnf.m3u8
-纪实频道[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-Newtv超级体育[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-BasTV 5[1280*720],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/2300000/mnf.m3u8
-BasTV 5[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
 卫视频道,#genre#
 湖南卫视[1920*1080],http://cbnlive.cbchot.com/live/hnws_1_1.m3u8?123
 东方卫视[1920*1080],http://cbnlive.cbchot.com/live/yt_dongfangweishi_h_1.m3u8?123
@@ -87,7 +74,12 @@ BasTV 5[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/liv
 辽宁卫视[1920*1080],http://cbnlive.cbchot.com/live/ty_liaoningweishi_h_1.m3u8?123
 龙江卫视[1920*1080],http://cbnlive.cbchot.com/live/yt_heilongjiangweishi_h_1.m3u8?123
 港台新闻,#genre#
-新加坡8频道HD[1280*720],http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新加坡5频道[1280*720],https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+新加坡8频道[1280*720],https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新加坡U频道[1280*720],https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+新加坡奥多频道[1280*720],https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+新加坡朝阳频道[1280*720],https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+新加坡春天频道[1280*720],https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 凤凰资讯HD[1920*1080],http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰资讯HD[1280*720],http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文HD[1920*1080],http://qlive.fengshows.cn/live720p/PCC.flv
@@ -101,6 +93,20 @@ NHK华语世界[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip
 澳门澳视澳门台[1280*720],http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳门澳视葡文台[1280*720],http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门澳视卫视台[1280*720],http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+4K超清,#genre#
+纯享4K[3840*2160],http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K频道[3840*2160][3840*2160],http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+广电4K[3840*2160],http://cbnlive.cbchot.com/live/4klocal_1.m3u8?123
+金鹰纪实[1920*1080],http://cbnlive.cbchot.com/live/yt_jinying_h_1.m3u8?123
+全纪实[1280*720],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/2300000/mnf.m3u8
+全纪实[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+全纪实[1920*1080],http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000119
+纪实频道[1280*720],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jspdhd/2300000/mnf.m3u8
+纪实频道[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+Newtv超级体育[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+BasTV 5[1280*720],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/2300000/mnf.m3u8
+BasTV 5[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+
 电影频道,#genre#
 Newtv动作电影[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
 Newtv惊悚悬疑[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
@@ -117,21 +123,44 @@ Newtv金牌综艺[1920*1080],http://112.17.40.140/PLTV/88888888/224/3221226749/i
 Newtv精品体育[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 Newtv精品体育[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
 Newtv精品记录[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-愛奇藝_黑幫電影[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-愛奇藝_經典港片[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-愛奇藝_五星影院[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-CHC高清电影[1920*1080],http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123
-中国广电情感影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
-中国广电华语影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
-中国广电经典剧场[1920*1080],http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
-凤凰电影[785*576],rtmp://58.200.131.2:1935/livetv/fhdy
-凤凰电影[785*576],rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-欧美电影[800*600],http://47.240.60.73/yy.php?t=14503914
-歐美影院[1280*720],http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-亞洲影院[1280*720],http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-五星影院[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-陈翔六点半[1920*1080],http://aldirect.rtmp.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
-黑莓电影[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+邵氏影院[1920*1080],https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
+大陆高清电影[1920*1080],https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+爱奇艺_票房收割机[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+爱奇艺_经典港片[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+爱奇艺_惊悚午夜场[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+爱奇艺_动画电影[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+爱奇艺_华语院线[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
+爱奇艺_粤语原生[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+爱奇艺_怀旧剧场[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+爱奇艺_温情影院[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+爱奇艺_周末影院[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+爱奇艺_谍战剧场[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+爱奇艺_老剧超清修复[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
+爱奇艺_收视冠军[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+爱奇艺_老年剧场[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
+爱奇艺_仙侠玄幻[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
+爱奇艺_青春剧场（公众号:SYFXZJ）[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
+爱奇艺_家庭剧场[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
+爱奇艺_抗战剧场[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+爱奇艺_童年经典[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_balalaxiaomoxian_1080p_t10/c15_lb_balalaxiaomoxian_1080p_t10.m3u8
+爱奇艺_动物兄弟[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yingshijinqu_1080p_t10/c16_lb_yingshijinqu_1080p_t10.m3u8
+爱奇艺_怀旧动画[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
+爱奇艺_儿童乐园[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
+爱奇艺_亲子启蒙[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
+爱奇谈[1920*1080],http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱悬念[1920*1080],http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱经典[1920*1080],http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧[1920*1080],http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱动漫[1920*1080],http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱美食[1920*1080],http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱都市[1920*1080],http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱解密[1920*1080],http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱江湖[1920*1080],http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱院线[1920*1080],http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱浪漫[1920*1080],http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱科幻[1920*1080],http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱时尚[1920*1080],http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱军武[1920*1080],http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 华数FHD-06[1920*1080],http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
 华数FHD-07[1920*1080],http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
 华数FHD-08[1920*1080],http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
@@ -156,6 +185,82 @@ CHC高清电影[1920*1080],http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123
 战旗轮播-30[1280*720],http://dlhdl-cdn.zhanqi.tv/zqlive/288547_qSJ5f.flv
 战旗轮播-32[1536*864],http://dlhdl-cdn.zhanqi.tv/zqlive/275792_qIz6B.flv
 战旗轮播-33[960*540],http://dlhdl-cdn.zhanqi.tv/zqlive/93626_h1w6h.flv
+CHC高清电影[1920*1080],http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123
+中国广电情感影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
+中国广电华语影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
+中国广电经典剧场[1920*1080],http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
+凤凰电影[785*576],rtmp://58.200.131.2:1935/livetv/fhdy
+凤凰电影[785*576],rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+欧美电影[800*600],http://47.240.60.73/yy.php?t=14503914
+歐美影院[1280*720],http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院[1280*720],http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+五星影院[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+陈翔六点半[1920*1080],http://aldirect.rtmp.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
+黑莓电影[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+天眼频道,#genre#
+中央电视台中塔西[1280*720],https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+中央电视台中塔东[1280*720],https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+中央电视台中塔南[1280*720],https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
+中央电视台中塔北[1280*720],https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+全国风景总览[1280*720],https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+黟县宏村月沼[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+黟县宏村南湖[1280*720],https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+黟县西递牌坊[1280*720],https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+黟县西递半山亭俯瞰[1280*720],https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+黟县卢村远眺[1280*720],https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+婺源江岭1[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+婺源江岭2[1280*720],https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+黄山始信峰[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+黄山卧云峰[1280*720],https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+黄山梦笔生花[1280*720],https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+黄山排云亭[1280*720],https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+黄山西海峡谷[1280*720],https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+黄山光明顶[1280*720],https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+黄山信兴道[1280*720],https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+黄山平天矼[1280*720],https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+黄山飞来石[1280*720],https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+云台山红石硖[1280*720],https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+泰山主峰[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+泰山迎客松[1280*720],https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+泰山大观峰[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+泰山拱北石[1280*720],https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+泰山十八盘[1280*720],https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+泰山玉皇顶[1280*720],https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+泰山天街[1280*720],https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+云台山小寨沟[1280*720],https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+云台山百家岩[1280*720],https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+武夷山玉女峰[1280*720],https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+印象大红袍[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+武夷山大红袍茶园[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+张家界迷魂台[1280*720],https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+张家界水绕4门[1280*720],https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+张家界将军列队[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+张家界阿凡达悬浮山[1280*720],https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+凤凰古城[1280*720],https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+凤凰古城南华山[1280*720],https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+宠村月沼[1280*720],https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+少林寺广场[1280*720],https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+水长城镜头一[1280*720],https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+水长城镜头二[1280*720],https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+水长城镜头三[1280*720],https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+水长城镜头四[1280*720],https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+狮子山鸟瞰古城[1280*720],https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
+远眺玉龙雪山[1280*720],https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+大研花巷景观台[1280*720],https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+峨眉云海日出[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+贡嘎雪山[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+远眺万佛顶[1280*720],https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+普贤菩萨像[1280*720],https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+乐山大佛全景[1280*720],https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
+悬空寺全景[1280*720],https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+恒宗[1280*720],https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+悬空寺侧景[1280*720],https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+天涯鸟瞰[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+天涯石[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+南天一柱[1280*720],https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+日月石[1280*720],https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
+雪乡大石碑[1280*720],https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+
 MTV频道,#genre#
 m2o音乐[640*360],http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 KTV-HD[1920*1080],rtmp://218.38.152.31/klive/klive.stream
@@ -297,13 +402,6 @@ adult-live-40,P2p://fccvod2.pvbox.live:8923/5daeead2000b1426ff39c54d62666edf.ts
 5[1280*720],https://135zyv6.xw0371.com/2019/02/27/TtzrZc0rcAb4Mr8D/playlist.m3u8
 6[1290*720],https://135zyv6.xw0371.com/2019/02/23/1g4zfSMGSLYLCGl0/playlist.m3u8
 A3BIKINI TV[1280*720],https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-AST TV 1[640*360],http://www.ast.tv/stream/1/master.m3u8
-AST TV 1[1280*720],https://www.ast.tv/stream/1/high.m3u8
-AST TV 1[1920*1080],https://www.ast.tv/stream/1/ultra.m3u8
-AST TV 2[640*360],http://www.ast.tv/stream/2/master.m3u8
-AST TV 2[1280*720],https://www.ast.tv/stream/2/high.m3u8
-AST TV 2[1280*720],https://www.ast.tv/stream/2/normal.m3u8
-AST TV 2[1920*1080],https://www.ast.tv/stream/2/ultra.m3u8
 Jasmin TV[1280*720],http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 Jasmin TV[1280*720],http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
 Jasmin TV[1280*720],http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
