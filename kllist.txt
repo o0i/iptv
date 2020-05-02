@@ -539,6 +539,8 @@ BesTV 4k[3840*2160],http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u
 雪乡大石碑[1280*720],https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
 
 MTV频道,#genre#
+
+FashionTV[1920*1080],http://ftv.zhini.top/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 俄罗斯RU音乐[1280*720],http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 MTV音乐[1280*720],http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 Music电视[1280*720],https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
