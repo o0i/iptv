@@ -72,6 +72,30 @@ CCTV-5+[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/liv
 CCTV体育赛事[1280*720],http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 CCTV体育赛事[1280*720],http://121.31.30.91:8081/ysten-business/live/hdcctv05plus/1.m3u8
 
+CCTV-1 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8
+CCTV-1 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+CCTV-2 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV-2 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV-4 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV-5 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221226560/1.m3u8
+CCTV-5+HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+CCTV-5+HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+CCTV-7 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+CCTV-7 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV-9 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-9 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+CCTV-10 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
+CCTV-10 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+CCTV-11 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+CCTV-12 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-12 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+CCTV-14 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+CCTV-14 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+CCTV-15 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-16 HD[1920*1080],http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+CCTV-17 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+
+
 阿肯色,https://xigua-cdn.haima-zuida.com/20200429/6425_cd9c9ec6/index.m3u8
 阿肯色,https://hls.aoxtv.com/v3.szjal.cn/20200430/PixLgWJt/index.m3u8
 阿肯色,https://cdn-yong.bejingyongjiu.com/20200430/10851_3a0f1768/index.m3u8
@@ -268,11 +292,12 @@ Newtv精品体育[1920*1080],http://112.17.40.140/PLTV/88888888/224/3221226819/i
 蓝光影视16台[1920*1080],http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC高清电影[1920*1080],http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123
 CHC高清电影[1920*1080],http://ivi.bupt.edu.cn/hls/chchd.m3u8
-五星影院[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-陈翔六点半[1920*1080],http://aldirect.rtmp.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
 黑莓电影[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+黑莓动画[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
 邵氏影院[1920*1080],https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
 大陆高清电影[1920*1080],https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+五星影院[1920*1080],http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+陈翔六点半[1920*1080],http://aldirect.rtmp.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
 中国广电情感影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
 中国广电华语影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
 中国广电经典剧场[1920*1080],http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
