@@ -93,9 +93,6 @@ CCTV-5+[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
 CCTV-5+[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 CCTV-5+[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV-5+[1920*1080],http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-CCTV5+体育赛事[2726*480],http://player.paymigu.com/migu.php?id=641886733
-
-
 
 
 卫视频道,#genre#
@@ -161,7 +158,8 @@ CCTV5+体育赛事[2726*480],http://player.paymigu.com/migu.php?id=641886733
 贵州卫视[1920*1080],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 
-港台新闻,#genre#
+华语频道,#genre#
+年代新闻[1920*1080],http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 凤凰资讯HD[1920*1080],http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 凤凰资讯HD[1920*1080],http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰中文HD[1920*1080],http://qlive.fengshows.cn/live720p/PCC.flv
@@ -169,30 +167,27 @@ CCTV5+体育赛事[2726*480],http://player.paymigu.com/migu.php?id=641886733
 凤凰香港台HD[1920*1080],http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰资讯HD[1280*720],http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文HD[1280*720],http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰卫视中文台[1280*720],http://117.169.120.138:8080/live/fhchinese/index.m3u8
+香港开电视[1280*720],http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港开电视[1280*720],http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港卫视[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有线新闻台[1024*576],https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 有线新闻台[1024*576],https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-年代新闻[1920*1080],http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+優視頻道[1280*720],http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 壹新闻[1280*720],https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 台視財經[1280*720],https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+NHK华语世界[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+RTHK31[1280*720],http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+
 澳门澳视澳门台[1280*720],http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳门澳视葡文台[1280*720],http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门澳视卫视台[1280*720],http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 新加坡5频道[1280*720],https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 新加坡8频道[1280*720],https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新加坡U频道[1280*720],https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-新加坡奥多频道[1280*720],https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 新加坡朝阳频道[1280*720],https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 新加坡春天频道[1280*720],https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-NHK华语世界[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-韩国KTV 韩国电视[1920*1080],http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-KTV-HD[1920*1080],rtmp://218.38.152.31/klive/klive.stream
+韩国KTV[1920*1080],http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+韩国KTV[1920*1080],rtmp://218.38.152.31/klive/klive.stream
 韩国阿里郎[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-东森电影[1280*720],http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-香港开电视[1280*720],http://media.fantv.hk/m3u8/archive/channel2.m3u8
-RTHK31[1280*720],http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-Fashion[1280*720],https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-有线新闻台[1024*576],https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
 电影频道,#genre#
 Newtv超级体育[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
@@ -321,6 +316,7 @@ CHC高清电影[1920*1080],http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 亞洲影院[1280*720],http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 歐美影院[1280*720],http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+东森电影[1280*720],http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 中国广电情感影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
 中国广电华语影院[1920*1080],http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
 中国广电经典剧场[1920*1080],http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
@@ -328,14 +324,11 @@ CHC高清电影[1920*1080],http://ivi.bupt.edu.cn/hls/chchd.m3u8
 凤凰电影[785*576],rtmp://58.200.131.2:1935/livetv/fhdy
 凤凰电影[785*576],rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
-
 阿肯色,https://hls.aoxtv.com/v3.szjal.cn/20200430/PixLgWJt/index.m3u8
 绅士们,http://cn2.18787000118.com/hls/20200324/fbfd38756801219796769fbba8c0d601/index.m3u8
 绅士们,https://hls.aoxtv.com/v3.szjal.cn/20200326/QATmrq8n/index.m3u8
 命硬仔西罗,https://hls.aoxtv.com/v3.szjal.cn/20200419/f282TRjI/index.m3u8
 饥饿站台,http://cn1.18787000118.com/hls/20200320/0bb2b21964c1e582d54b44b45602339d/index.m3u8
-
-
 
 4K超清,#genre#
 BasTV 5[1920*1080],http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
@@ -352,6 +345,88 @@ BesTV 4k[3840*2160],http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u
 纯享4K[3840*2160],http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 百事4K[3840*2160],http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 广电4K[3840*2160],http://cbnlive.cbchot.com/live/4klocal_1.m3u8?123
+
+MTV频道,#genre#
+
+FashionTV[1920*1080],http://ftv.zhini.top/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Arirang TV[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+CLIK TV[1920*1080],http://92.62.234.206/klik.m3u
+Deluxe Music[1920*1080],http://188.35.9.5:10007/stolen/200b/parasite.install
+Ditty TV[1920*1080],http://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8
+Kronehit[1920*1080],http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+POWER[1920*1080],http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
+SONG TV Armenia[1920*1080],http://songtvam.ru:8060/hd/playlist.m3u8
+Матур ТВ[1920*1080],http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+Первый Музыкальный HD (BY)[1920*1080],http://rtmp.one.by:1300
+俄罗斯音乐台[1920*1080],http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+俄罗斯RU音乐[1280*720],http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+乌克兰M2 音乐频道[1280*720],http://live.m2.tv/hls3/stream.m3u8
+意大利V2 音乐频道[1280*720],http://de1se01.v2beat.live/playlist.m3u8
+印度l音乐电视台[1280*720],http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
+奧地利KRAL[1280*720],http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+德國音樂mv[1280*720],http://de1se01.v2beat.live/playlist.m3u8
+MTV音乐[1280*720],http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+MTV音乐[1024*576],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+Music电视[1280*720],https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+Music Top | HD[1280*720],http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+MM TV BG[1280*720],http://pri.cdn.bg:2113/fls/mmtv.stream/.m3u8
+意大利意大利电台[720*480],http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+m2o音乐[640*360],http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+走秀频道,#genre#
+WFCHD[1920*1080],http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+Fashion[1280*720],https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+RU TV[1920*1080],http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+World Fashion Россия[1920*1080],http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+俄罗斯HD时尚频道[1920*1080],http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+
+外语频道,#genre#
+越南ANTV[1047*576],http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+TV-chosun[1280*720],http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
+SEA TV[1280*720],http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
+!2 (Омск)[1920*1080],https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+1 Республиканский[1920*1080],http://185.114.136.25:80/first-republic-tv
+218 News[1920*1080],http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+47 канал[1920*1080],http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
+47 канал Ленинград[1920*1080],http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+Channel News Asia[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Discovery Science[1920*1080],http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+EWTN[1920*1080],http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
+IZ.RU[1920*1080],http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+Luxury[1920*1080],http://nano.teleservice.su:8080/hls/luxury.m3u8
+Skrypin UA[1920*1080],https://open-cdn.lanet.tv/live/1008.m3u8
+TBN (ARM)[1920*1080],http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
+TVM3[1920*1080],http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+Viasat Sport[1920*1080],http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+VOTV[1920*1080],http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8 lia-center.m3u8
+VRT.TV[1920*1080],http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+Архат ТВ[1920*1080],http://arhat.tv/public/1080p/index.m3u8
+Башкортостан 24[1920*1080],http://live.gtrk.tv/hls/b24-hls.m3u8
+Возрождение[1920*1080],http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+Волжский Плюс[1920*1080],http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v1a1/index.m3u8
+Вся Уфа[1920*1080],http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
+Громадське ТВ[1920*1080],http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
+Дагестан ТВ[1920*1080],http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
+Енисей[1920*1080],http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+Мир 24[1920*1080],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Мир 24[1920*1080],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
+Мир Premium[1920*1080],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+НТА (Льв?в)[1920*1080],http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+Оплот[1920*1080],http://185.114.136.25/oplot-tv
+Оце[1920*1080],http://54.36.109.228/14700/index.m3u8
+Прямий[1920*1080],http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+Пятница![1920*1080],http://85.112.114.11:8086/udp/233.170.170.112:58631
+Самара ГИС[1920*1080],http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
+Сочи 24[1920*1080],http://sochi.camera:8080/cam_39/index.m3u8
+Тивиком[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+Тивиком[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+Тивиком[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+УрФО 24[1920*1080],http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
+Хабар 24[1920*1080],http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+Экспресс[1920*1080],http://serv25.vintera.tv:8081/expres_penza/penzatv/chunks.m3u8
+Якутия 24[1920*1080],http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
+NexTV[1280*720],http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
 直播中国,#genre#
 全国风景总览[1280*720],https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -545,86 +620,6 @@ BesTV 4k[3840*2160],http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u
 悬空寺全景[1280*720],https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
 悬空寺侧景[1280*720],https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
 
-MTV频道,#genre#
-
-FashionTV[1920*1080],http://ftv.zhini.top/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-俄罗斯音乐台[1920*1080],http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-俄罗斯RU音乐[1280*720],http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-MTV音乐[1280*720],http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-Music电视[1280*720],https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
-乌克兰M2 音乐频道[1280*720],http://live.m2.tv/hls3/stream.m3u8
-意大利V2 音乐频道[1280*720],http://de1se01.v2beat.live/playlist.m3u8
-印度l音乐电视台[1280*720],http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
-MM TV BG[1280*720],http://pri.cdn.bg:2113/fls/mmtv.stream/.m3u8
-Music Top | HD[1280*720],http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-MTV音乐[1024*576],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-意大利意大利电台[720*480],http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-m2o音乐[640*360],http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
-!2 (Омск)[1920*1080],https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
-1 Республиканский[1920*1080],http://185.114.136.25:80/first-republic-tv
-218 News[1920*1080],http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-47 канал[1920*1080],http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
-47 канал Ленинград[1920*1080],http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-Action Sports 4U[1920*1080],https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
-ALL Sports[1920*1080],http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-Arirang TV[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Channel News Asia[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CLIK TV[1920*1080],http://92.62.234.206/klik.m3u
-Czworka(Poland)[1920*1080],http://stream85.polskieradio.pl/sat/streama.stream/chunklist_w868508590.m3u8
-Deluxe Music[1920*1080],http://188.35.9.5:10007/stolen/200b/parasite.install
-Discovery Science[1920*1080],http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
-Ditty TV[1920*1080],http://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8
-EWTN[1920*1080],http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
-IZ.RU[1920*1080],http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-Kronehit[1920*1080],http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-Luxury[1920*1080],http://nano.teleservice.su:8080/hls/luxury.m3u8
-POWER[1920*1080],http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
-RU TV[1920*1080],http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-Skrypin UA[1920*1080],https://open-cdn.lanet.tv/live/1008.m3u8
-SONG TV Armenia[1920*1080],http://songtvam.ru:8060/hd/playlist.m3u8
-TBN (ARM)[1920*1080],http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
-TVM3[1920*1080],http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-Viasat Sport[1920*1080],http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
-VIP Megahit[1920*1080],http://188.35.9.5:10020/stolen/403x/hot.dll
-VOTV[1920*1080],http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8 lia-center.m3u8
-VRT.TV[1920*1080],http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
-VRT.TV (Электросталь)[1920*1080],http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
-World Fashion Россия[1920*1080],http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-Архат ТВ[1920*1080],http://arhat.tv/public/1080p/index.m3u8
-Башкортостан 24[1920*1080],http://live.gtrk.tv/hls/b24-hls.m3u8
-Возрождение[1920*1080],http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
-Волжский Плюс[1920*1080],http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v1a1/index.m3u8
-Вся Уфа[1920*1080],http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
-Громадське ТВ[1920*1080],http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
-Дагестан ТВ[1920*1080],http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
-Енисей[1920*1080],http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-Кузбасс 24[1920*1080],http://158.46.115.68:81/udp/239.255.43.17:1234
-Матур ТВ[1920*1080],http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-Мир 24[1920*1080],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-Мир 24[1920*1080],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
-Мир Premium[1920*1080],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-НТА (Льв?в)[1920*1080],http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-НТВ[1920*1080],http://188.35.9.5:10007/stolen/141n/parasite.install
-Оплот[1920*1080],http://185.114.136.25/oplot-tv
-Оце[1920*1080],http://54.36.109.228/14700/index.m3u8
-Первый канал[1920*1080],http://188.35.9.5:10005/stolen/103r/imposter.rar
-Первый канал HD (+4)[1920*1080],http://182.73.122.74:10003/bysid/904
-Первый Музыкальный HD (BY)[1920*1080],http://rtmp.one.by:1300
-Прямий[1920*1080],http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
-Пятница![1920*1080],http://85.112.114.11:8086/udp/233.170.170.112:58631
-Самара ГИС[1920*1080],http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
-Сочи 24[1920*1080],http://sochi.camera:8080/cam_39/index.m3u8
-Тивиком[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-Тивиком[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
-Тивиком HD (+5)[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
-УрФО 24[1920*1080],https://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/chunklist.m3u8
-УрФО 24[1920*1080],http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
-Хабар 24[1920*1080],http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-Экспресс[1920*1080],http://serv25.vintera.tv:8081/expres_penza/penzatv/chunks.m3u8
-Якутия 24[1920*1080],http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
-俄罗斯HD时尚频道[1920*1080],http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
 
 
 广播频道,#genre#
@@ -757,14 +752,14 @@ adult-live-37,P2p://fccseuro.pvbox.live:18912/5d6a080400099377f223b332034756e1.t
 adult-live-38,P2p://fccseuro.pvbox.live:18912/5d6a0806000d63cef223bbfc37f92b76.ts
 adult-live-39,P2p://fccseuro.pvbox.live:18912/5d6a080800063cbcf223c1f733e11ddf.ts
 adult-live-40,P2p://fccvod2.pvbox.live:8923/5daeead2000b1426ff39c54d62666edf.ts
-男同[1920*1080],https://www.ast.tv/stream/1/ultra.m3u8
-男同[1920*1080],https://www.ast.tv/stream/2/ultra.m3u8
-男同[1280*720],https://www.ast.tv/stream/1/high.m3u8
-男同[1280*720],https://www.ast.tv/stream/2/high.m3u8
-男同[1280*720],https://www.ast.tv/stream/2/normal.m3u8
-男同[640*360],https://www.ast.tv/stream/1/cellular.m3u8
-男同[640*360],http://www.ast.tv/stream/1/master.m3u8
-男同[640*360],http://www.ast.tv/stream/2/master.m3u8
+男同1[1920*1080],https://www.ast.tv/stream/1/ultra.m3u8
+男同2[1920*1080],https://www.ast.tv/stream/2/ultra.m3u8
+男同1[1280*720],https://www.ast.tv/stream/1/high.m3u8
+男同2[1280*720],https://www.ast.tv/stream/2/high.m3u8
+男同2[1280*720],https://www.ast.tv/stream/2/normal.m3u8
+男同1[640*360],https://www.ast.tv/stream/1/cellular.m3u8
+男同1[640*360],http://www.ast.tv/stream/1/master.m3u8
+男同2[640*360],http://www.ast.tv/stream/2/master.m3u8
 直播,https://rlc.live/hola/static/resources/03_1/1542877056/playlist.m3u8
 3[1024*576],https://lajiao-bo.com/20190501/X0DRzA0O/index.m3u8
 5[1280*720],https://135zyv6.xw0371.com/2019/02/27/TtzrZc0rcAb4Mr8D/playlist.m3u8
