@@ -40,6 +40,16 @@
             ]
         },
         {
+           "key": "玖玖资源",
+            "name": "玖玖资源",
+            "type": 0,
+            "api": "http://99zxcj.com/inc/sck.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
             "key": "605資源",
             "name": "605資源",
             "type": 0,
